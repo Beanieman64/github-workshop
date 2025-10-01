@@ -1,1 +1,7 @@
-behold. change
+behold.
+
+git fetch ~ checks branches made in github
+
+git add ~ adds to stage
+git commit -m "mssg here"~ soft commit to the repository
+git push ~ solidifies it in the branch
